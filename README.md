@@ -93,7 +93,7 @@ BigData-FoodInsecurity-Africa/
 - **Temporal Trends:** Changes over 2021-2023 period
 - **Geographic Patterns:** Country-wise vulnerability assessment
 
-![Analysis Results](images/analysis_results.png)
+![Analysis Results](images/chart.png)
 
 ### 3. 🤖 Machine Learning Models
 
@@ -200,6 +200,8 @@ pip install pandas numpy scikit-learn matplotlib seaborn scipy
    - Model training and evaluation results
    - Innovation component outcomes
    - Performance metrics summary
+
+   ![Analysis Results](images/logs.png)
 
 ---
 
